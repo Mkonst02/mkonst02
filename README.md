@@ -34,7 +34,7 @@ Year 3: [Design project folder](https://drive.google.com/drive/folders/1wS0VPiFR
 
 Year 4: [Airfoil FEA folder](https://drive.google.com/drive/folders/1RZVDgQCAvgpvN-RfF03cZB8uBelm0c6S?usp=sharing)  
 
-Capstone Project: [ΡΑΦ model](projects/reinforced_concrete.rad), [ETABS model](projects/reinforced_concrete_earthquake.EDB)
+Capstone Project: [ΡΑΦ model](projects/reinforced_concrete.rad), [ETABS model](projects/reinforced_concrete_earthquake.EDB), [Scheduling](projects/reinforced_concrete_scheduling.mpp)
 
 ### February 2021–May 2026  
 **Full-time**  
