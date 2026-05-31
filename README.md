@@ -32,7 +32,7 @@ Selected Project Files:
 
 Year 3: [Design project folder](https://drive.google.com/drive/folders/1wS0VPiFRn5VWs3wJG4yeydVtxZfL5OJ4?usp=sharing)
 
-Year 4: [ANSYS airfoil FEA folder](https://drive.google.com/drive/folders/1RZVDgQCAvgpvN-RfF03cZB8uBelm0c6S?usp=sharing)  
+Year 4: [Airfoil FEA folder](https://drive.google.com/drive/folders/1RZVDgQCAvgpvN-RfF03cZB8uBelm0c6S?usp=sharing)  
 
 Capstone: [ETABS model](projects/reinforced_concrete_earthquake.EDB), [RAD file](projects/reinforced_concrete.rad)
 
