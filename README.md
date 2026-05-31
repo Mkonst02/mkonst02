@@ -28,13 +28,13 @@ University of Cyprus, Nicosia
 
 Core Subjects: Strength of Materials (70%), Structural Dynamics (60%), and Prestressed Concrete (80%)
 
-Selected Project Files:  
+Supporting Files:  
 
 Year 3: [Design project folder](https://drive.google.com/drive/folders/1wS0VPiFRn5VWs3wJG4yeydVtxZfL5OJ4?usp=sharing)
 
 Year 4: [Airfoil FEA folder](https://drive.google.com/drive/folders/1RZVDgQCAvgpvN-RfF03cZB8uBelm0c6S?usp=sharing)  
 
-Capstone: [ΡΑΦ model](projects/reinforced_concrete.rad), [ETABS model](projects/reinforced_concrete_earthquake.EDB)
+Capstone Project: [ΡΑΦ model](projects/reinforced_concrete.rad), [ETABS model](projects/reinforced_concrete_earthquake.EDB)
 
 ### February 2021–May 2026  
 **Full-time**  
@@ -43,7 +43,7 @@ University of Cyprus, Nicosia
 
 Core Subjects: Continuum Mechanics (80%) and Intelligent Systems (65%)
 
-Thesis: Validating Position-Specific Scoring Matrices for Fungal-specific Nucleoporins to Enhance the Detection of Fungi in Large-Scale Metagenomic Assemblies [Thesis files](https://drive.google.com/drive/folders/1Pg5O17UxncqJAlipn2WLTqsKZhO-tvo-?usp=sharing)
+Thesis: Validating Position-Specific Scoring Matrices for Fungal-specific Nucleoporins to Enhance the Detection of Fungi in Large-Scale Metagenomic Assemblies ([Thesis files])(https://drive.google.com/drive/folders/1Pg5O17UxncqJAlipn2WLTqsKZhO-tvo-?usp=sharing)
 
 ---
 
