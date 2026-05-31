@@ -43,7 +43,8 @@ University of Cyprus, Nicosia
 
 Core Subjects: Continuum Mechanics (80%) and Intelligent Systems (65%)
 
-Thesis: Validating Position-Specific Scoring Matrices for Fungal-specific Nucleoporins to Enhance the Detection of Fungi in Large-Scale Metagenomic Assemblies ([Thesis files])(https://drive.google.com/drive/folders/1Pg5O17UxncqJAlipn2WLTqsKZhO-tvo-?usp=sharing)
+Thesis: Validating Position-Specific Scoring Matrices for Fungal-specific Nucleoporins to Enhance the Detection of Fungi in Large-Scale Metagenomic Assemblies 
+[Thesis files](https://drive.google.com/drive/folders/1Pg5O17UxncqJAlipn2WLTqsKZhO-tvo-?usp=sharing)
 
 ---
 
