@@ -80,9 +80,7 @@ Keywords: customer service, conflict mediation
 
 Keywords: landslide risk assessment, predictive modelling for disaster risk reduction, article published in Sustainable Urbanization & Digital Innovations
 
-Evidence: [Programme page](https://asef.org/projects/23rd-asef-summer-university-asefsu23/)
-
-[Publication](https://asef.org/wp-content/uploads/2022/07/220728_ASEFSU23_Sustainable-Urbanisation_Publication.pdf)
+Evidence: [Programme page](https://asef.org/projects/23rd-asef-summer-university-asefsu23/), [Publication](https://asef.org/wp-content/uploads/2022/07/220728_ASEFSU23_Sustainable-Urbanisation_Publication.pdf)
 
 ### September 2021–November 2021  
 **Research Trainee, Cambridge Centre for Innovation & Development, Remote**  
@@ -150,9 +148,7 @@ Evidence: [Certificate](evidence/odyssey_archaeology.png)
 
 Keywords: partial scholarship (50% tuition coverage), design specifications for an artificially intelligent prototype determining optimal lunar outpost location, quantified training data, scope of in-situ manufacturing based on lunar resources, abstract accepted to the 41st EARSeL Symposium 2022
 
-Evidence: [Certificate](evidence/space_studies.pdf)
-
-[Scholarship](evidence/space_studies_scholarship.png)
+Evidence: [Certificate](evidence/space_studies.pdf), [Scholarship](evidence/space_studies_scholarship.png)
 
 ### July 2022–July 2022  
 **Robotics for Drone Design, Institut Polytechnique des Sciences Avancées, Paris**  
