@@ -82,6 +82,8 @@ Evidence: [Programme page](https://asef.org/projects/23rd-asef-summer-university
 
 Keywords: literature reviews, research proposals, molecular systems, cognitive neuroscience
 
+Evidence: [Certificate](evidence/camcid_neuroscience.png)
+
 ### February 2022–June 2022  
 **Research Trainee, Cambridge Centre for Innovation & Development, Remote**  
 
