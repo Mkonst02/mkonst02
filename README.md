@@ -1,16 +1,151 @@
-## Hi there 👋
+# Maria Konstantinou
+mkonst@ucy.ac.cy  
+GitHub: @mkonst02
 
-<!--
-**Mkonst02/mkonst02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### September 2015–June 2018  
+**Full-time**  
+**Apolytirion (Track: Natural Sciences, Biosciences, Informatics & Technology)**  
+1st Lyceum of Archbishop Makarios III, Paphos  
+
+Overall Score: 86.9%
+
+### September 2019–June 2020  
+**Full-time**  
+**Bachelor’s degree, Liberal Arts & Sciences**  
+Rijksuniversiteit Groningen, The Netherlands  
+
+Overall Score: 74.3%
+
+### January 2021–Present  
+**Full-time**  
+**Bachelor’s degree, Civil & Environmental Engineering**  
+University of Cyprus, Nicosia  
+
+Core Subjects: Material strength (70%), Structural Dynamics (60%), & Prestressed Concrete (80%)
+
+### January 2021–Present  
+**Full-time**  
+**Subsidiary degree, Biomedical Engineering**  
+University of Cyprus, Nicosia  
+
+Core Subjects: Continuum Mechanics (80%), & Intelligent Systems (65%)
+
+**Thesis (Bioinformatics Research Laboratory, Department of Biological Sciences):**  
+Validating Position-Specific Scoring Matrices for Fungal-specific Nucleoporins to Enhance the Detection of Fungi in Large-Scale Metagenomic Assemblies
+
+---
+
+## Experience
+
+### July 2018–July 2019  
+**Gap Year**  
+
+Keywords: cultural immersion, solo travel across 8+ European countries, logistics
+
+### January 2019–April 2019  
+**Peer Responder, Seven Cups of Tea, Remote**  
+
+Keywords: reflective communication, psychosocial wellbeing
+
+### February 2020–May 2020  
+**Delegate, Erasmus+ Capacity Building Project, Groningen**  
+
+Keywords: transatlantic academic cooperation, environmental verification, green labelling
+
+### September 2020–June 2021  
+**Operations Associate, Apollonia Management Limited, Paphos**  
+
+Keywords: customer service, conflict mediation
+
+### September 2021–November 2021  
+**23rd Summer University on Sustainable Urban Development & Livability, Asia-Europe Foundation, Remote**  
+
+Keywords: landslide risk assessment, predictive modelling for disaster risk reduction, article published in Sustainable Urbanization & Digital Innovations
+
+### September 2021–November 2021  
+**Research Trainee, Cambridge Centre for Innovation & Development, Remote**  
+
+Keywords: literature reviews, research proposals, molecular systems, cognitive neuroscience
+
+### February 2022–June 2022  
+**Research Trainee, Cambridge Centre for Innovation & Development, Remote**  
+
+Keywords: literature reviews, research proposals, machine learning for medical robotics
+
+### September 2022–October 2022  
+**Research Assistant, Space is More (Lunares Research Station), Poland**  
+
+Keywords: lunar analogue habitat, additive manufacturing & stress testing of geological sampling tools, seedling fertility testing in meteorite powder, data collection
+
+### January 2023–February 2023  
+**Project Management Intern, Government Building Agency of Tanzania, Remote**  
+
+Keywords: contract negotiations, project orchestration, fiscal oversight
+
+### June 2023–August 2023  
+**Geotechnics Intern, Spanish Academy for Building Information Modelling, Remote**  
+
+Keywords: soil types, foundation zones, foundation selection, selection criteria, geospatial modelling using ArcGIS
+
+### September 2023–December 2023  
+**Project Support Specialist, KIOS Centre of Excellence for Research & Innovation, Nicosia**  
+
+Keywords: map precision, digital twin, attribute data standardization (street types & addresses) using QGIS
+
+### June 2024–August 2024  
+**Computational Materials Science Intern, The Cyprus Institute, Nicosia**  
+
+Keywords: molecular interaction modelling, LAMMPS
+
+### June 2025–September 2025  
+**Animal Rescue Volunteer, Paw Patrol Cyprus, Paphos**  
+
+Keywords: emergency medical cases, stray sterilizations, adoption logistics, fundraising, resource management
+
+---
+
+## Courses
+
+### June 2018–June 2018  
+**Human Osteology & Forensic Anthropology, Odyssey Field School, Limassol**  
+
+Keywords: ethical analysis & categorization of human remains
+
+### January 2022–February 2022  
+**Space Studies, University of South Australia, Remote**  
+
+Keywords: partial scholarship (50% tuition coverage), design specifications for an artificially intelligent prototype determining optimal lunar outpost location, quantified training data, scope of in-situ manufacturing based on lunar resources, abstract accepted to the 41st EARSeL Symposium 2022
+
+### July 2022–July 2022  
+**Robotics for Drone Design, Institut Polytechnique des Sciences Avancées, Paris**  
+
+Keywords: decision-making for robotic path planning, drone assembly & programming for vertical flight stability, ROS, Gazebo simulator for drone trajectory
+
+### March 2023–April 2023  
+**Technologies & Design for Smart Cities, Massachusetts Institute of Technology, Remote**  
+
+Keywords: commuting habits quantification, behavioral shift models for CO₂ emission, travel duration, & congestion reduction
+
+### June 2023–June 2023  
+**Machine Learning & Advanced Statistics, Universidad Politécnica de Madrid, Spain**  
+
+Keywords: algorithm performance evaluation (error generalization, AUC, Brier score, holdout, k-fold cross-validation, bootstrapping), SVM implementation, causal inference, semi-, partially-, & unsupervised classification, data imputation, discretization, & dimensionality reduction, Bayesian networks, kernel methods
+
+### July 2023–July 2023  
+**Applied Geographic Information Systems for Earth Scientists, Universiteit Utrecht, The Netherlands**  
+
+Keywords: spatial data analysis & terrain slope calculation using ArcGIS, ModelBuilder, & ERDAS Imagine
+
+### July 2023–August 2023  
+**Applied Neural Networks & Deep Learning, University of Oxford, Remote**  
+
+Keywords: generative, autoregressive, & diffusion models, variational autoencoders, graph sampling & classification, neural network training, Markov decision processes, dynamic programming, policy & value iteration, Q-Learning, SARSA, node classification, random walk, permutation invariance & equivariance
+
+### August 2024–August 2024  
+**Introduction to High-Performance Computing, Kungliga Tekniska högskolan, Stockholm**  
+
+Keywords: parallelism layers (nodes, CPU/GPU cores, memory hierarchies), OpenMP & MPI (thread control, synchronization, message passing), GPU programming with HIP & CUDA (grid/block setup, memory allocation, coalesced access), performance optimization (loop scheduling, caching, workload balancing), distributed memory dependencies & communication overhead, NUMA & UMA architectures, asynchronous processing, atomic operations, hybrid architectures, memory latency minimization, parallel throughput maximization
