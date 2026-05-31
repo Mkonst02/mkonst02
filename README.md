@@ -36,7 +36,7 @@ Year 4: [Airfoil FEA folder](https://drive.google.com/drive/folders/1RZVDgQCAvgp
 
 Capstone: [ΡΑΦ model](projects/reinforced_concrete.rad), [ETABS model](projects/reinforced_concrete_earthquake.EDB)
 
-### January 2021–Present  
+### February 2021–May 2026  
 **Full-time**  
 **Subsidiary degree, Biomedical Engineering**  
 University of Cyprus, Nicosia  
