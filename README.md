@@ -1,6 +1,6 @@
 # Maria Konstantinou
 
-mkonst@ucy.ac.cy  
+mkonst02@ucy.ac.cy  
 GitHub: [@mkonst02](https://github.com/Mkonst02)
 
 ---
@@ -16,7 +16,7 @@ Overall Score: 86.9%
 
 ### September 2019–June 2020  
 **Full-time**  
-**Bachelor’s degree, Liberal Arts & Sciences**  
+**Undergraduate studies, Liberal Arts & Sciences**  
 Rijksuniversiteit Groningen, The Netherlands  
 
 Overall Score: 74.3%
