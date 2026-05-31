@@ -45,11 +45,6 @@ Core Subjects: Continuum Mechanics (80%) and Intelligent Systems (65%)
 
 Thesis: Validating Position-Specific Scoring Matrices for Fungal-specific Nucleoporins to Enhance the Detection of Fungi in Large-Scale Metagenomic Assemblies
 
-Core Subjects: Continuum Mechanics (80%) and Intelligent Systems (65%)
-
-**Thesis (Bioinformatics Research Laboratory, Department of Biological Sciences):**  
-Validating Position-Specific Scoring Matrices for Fungal-specific Nucleoporins to Enhance the Detection of Fungi in Large-Scale Metagenomic Assemblies
-
 Evidence: [Thesis files](https://drive.google.com/drive/folders/1Pg5O17UxncqJAlipn2WLTqsKZhO-tvo-?usp=sharing)
 
 ---
