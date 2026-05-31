@@ -21,17 +21,29 @@ Rijksuniversiteit Groningen, The Netherlands
 
 Overall Score: 74.3%
 
-### January 2021–Present  
+### February 2021–May 2026  
 **Full-time**  
 **Bachelor’s degree, Civil & Environmental Engineering**  
 University of Cyprus, Nicosia  
 
 Core Subjects: Strength of Materials (70%), Structural Dynamics (60%), and Prestressed Concrete (80%)
 
+Selected Project Files:  
+
+Year 3: [Design project folder](https://drive.google.com/drive/folders/1wS0VPiFRn5VWs3wJG4yeydVtxZfL5OJ4?usp=sharing)
+
+Year 4: [ANSYS airfoil FEA folder](https://drive.google.com/drive/folders/1RZVDgQCAvgpvN-RfF03cZB8uBelm0c6S?usp=sharing)  
+
+Capstone: [ETABS model](projects/reinforced_concrete_earthquake.EDB), [RAD file](projects/reinforced_concrete.rad)
+
 ### January 2021–Present  
 **Full-time**  
 **Subsidiary degree, Biomedical Engineering**  
 University of Cyprus, Nicosia  
+
+Core Subjects: Continuum Mechanics (80%) and Intelligent Systems (65%)
+
+Thesis: Validating Position-Specific Scoring Matrices for Fungal-specific Nucleoporins to Enhance the Detection of Fungi in Large-Scale Metagenomic Assemblies
 
 Core Subjects: Continuum Mechanics (80%) and Intelligent Systems (65%)
 
