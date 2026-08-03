@@ -39,7 +39,7 @@ Capstone Project: [ΡΑΦ model](projects/reinforced_concrete.rad), [ETABS model
 
 **Cyfield award for cohort’s top academic progression**
 
-Evidence: [Certificate](evidence/cyfield_award.pdf)
+Evidence: [Certificate](evidence/cyfield_award.jpg)
 
 Overall Score: 62.6%
 
